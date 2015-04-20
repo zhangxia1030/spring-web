@@ -21,7 +21,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
   </head>
   
   <body>
-    <form action="<%=basePath%>/acceptParmerter" method="post">
+    <form action="<%=basePath%>/acceptParmerter.do" method="post">
     	<table cellpadding="0" border="0" align="center">
     		<tr>
     			<td>姓名</td>
