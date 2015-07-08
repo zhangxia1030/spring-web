@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-jsp
+jsp<input type="checkbox" width="10" value="" checked="checked" onchange=""/>
 </body>
 </html>
