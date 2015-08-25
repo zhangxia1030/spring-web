@@ -15,12 +15,12 @@
 	</appender>
 
 	<logger name="org.springframework">
-		<level value="ALL" />
+		<level value="DEBUG" />
 		<appender-ref ref="console" />
 	</logger>
 
 	<root>
-		<priority value="ALL" />
+		<priority value="INFO" />
 		<appender-ref ref="console" />
 	</root>
 
